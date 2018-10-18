@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/.cache/dev-404-page.js",
+      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/.cache/dev-404-page.js",
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f2b0c4149050276dfcdccdac20073e67",
+        "contentDigest": "6b3b6990cfc1e7bd27931936f6b5fbd6",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "52f1cd0842b9fefca2d6aa7feefc0f64",
+        "contentDigest": "90a358b8959cdc9be2a456fb9c30d8fe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "943601ebf316ce201adf11c3b98e4293",
+        "contentDigest": "dc335afbdaa8fc69a86a0b38a8bf8c7e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a8295ff0acd9a6565f22d2f6e1b3beb0",
+        "contentDigest": "d1cdf99150a5fe943a8533597b475ed1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d1446a85940e43439de8a23842fbec47",
+        "contentDigest": "7dd83bc62f7694ecf180b6349d1a384d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bd21abbcfef12ba298861d6682dbc841",
+        "contentDigest": "255c9ff77ba23df80054827c33009a16",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -269,13 +269,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eee9205b98fd7743079c377377f19ca1",
+        "contentDigest": "75ca61bb486785b3978f5ad743ab58fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-styled-components": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-styled-components",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-styled-components",
       "id": "Plugin gatsby-plugin-styled-components",
       "name": "gatsby-plugin-styled-components",
       "version": "3.0.0",
@@ -290,7 +290,7 @@
         "wrapRootElement",
         "onRenderBody"
       ],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-styled-components",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-styled-components",
       "packageJson": {
         "name": "gatsby-plugin-styled-components",
         "description": "Gatsby plugin to add support for styled components",
@@ -339,13 +339,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "444b37450dc8345d64798fe168b07e7a",
+        "contentDigest": "5d5b694982fa5e2e93f706c7d653166f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-manifest",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.5",
@@ -366,7 +366,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -423,13 +423,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6b0d1a5933e43a94310b00207e2bbba0",
+        "contentDigest": "dd66097edb204341c755d6c4ca914f8c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-offline",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "2.0.6",
@@ -446,7 +446,7 @@
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -505,13 +505,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a8fa575f4c388616cb0f59d8484b61cc",
+        "contentDigest": "6b5f28b559187f128d16a883a8ab511f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "1bab1ccfd6c322698ab4f8f473ea6529",
@@ -521,7 +521,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2",
       "packageJson": {
         "name": "gatsby-starter-default",
         "license": "MIT",
@@ -579,19 +579,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "78770cbb235d73e6b98740374078d338",
+        "contentDigest": "2df111e77366fa19890e934d8dc97f80",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-page-creator",
+      "resolve": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages",
+        "path": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -599,7 +599,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -671,7 +671,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9686d4f744857caadfa4f3adbd2266be",
+        "contentDigest": "88c035b7b5b3ead93e765a9a07a5a06b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -684,12 +684,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-16T05:35:57.693Z",
+      "buildTime": "2018-10-18T23:19:25.813Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "02cbdfc0ba270ffca16a8a8da05d0a12",
+        "contentDigest": "fc3e6bed574362836eabbca8f533d9e4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -698,18 +698,18 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/404.js",
+      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/404.js",
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5407114208288b1ee2221403cbe1de5f",
+        "contentDigest": "32d367522c3db53da874ea425c82b2a1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -718,18 +718,18 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/index.js",
+      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/index.js",
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f03f6a9f7b1e4b78688fd6d92efb9556",
+        "contentDigest": "9b0f73af10ff26574d8398cd21b32664",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -738,18 +738,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/404.js",
+      "component": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/404.js",
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f002d9f24c5b8cdb0a74934765694fe",
+        "contentDigest": "51ad03a7b6e8a98ff986a4cd2b6fcfb5",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -770,17 +770,17 @@
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/.cache/dev-404-page.js": {
+    "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/.cache/dev-404-page.js"
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/.cache/dev-404-page.js"
     },
-    "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/404.js": {
+    "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/404.js": {
       "query": "",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/404.js"
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/404.js"
     },
-    "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/index.js": {
+    "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/index.js": {
       "query": "",
-      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_pg_2/src/pages/index.js"
+      "componentPath": "C:/Users/jdo11/Desktop/internship_dot_dot/promo_page_one/promo_pg_2/src/pages/index.js"
     }
   },
   "staticQueryComponents": {}
